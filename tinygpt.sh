@@ -9,4 +9,4 @@ set -eo pipefail
 . /venv/main/bin/activate
 
 # Install your packages
-pip install datasets tqdm transformers trl
+pip install datasets matplotlib tqdm transformers trl
